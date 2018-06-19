@@ -5,7 +5,8 @@ Set of scripts that goes from raw dicom files to BIDS structure
 
 
 
-### PYDEFACE FROM https://github.com/poldracklab/pydeface #####
+Pydeface source:
+https://github.com/poldracklab/pydeface
 
 Defacing tool for nifti images.  
 
